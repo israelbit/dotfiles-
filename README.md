@@ -1,5 +1,6 @@
 #My dotfiles for archlinux
-
+##Packages requires
+- nevoim 
 
 ##Configurations for my neovim
 ###Plugins
