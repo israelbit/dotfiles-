@@ -5,7 +5,13 @@
 - mpd rmpc 
 - polybar 
 - kitty
+- qutebrowser
+- fastfetch
 
+## Fonts
+- ttf-jetbrains-mono
+- ttf-nerd-fonts-symbols
+- ttf-hack-nerd
 
 ## Configurations for my neovim
 ### Plugins
