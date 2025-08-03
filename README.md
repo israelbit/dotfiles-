@@ -4,7 +4,7 @@
 - bspwm & sxhkd
 - mpd rmpc 
 - polybar 
-
+- kitty
 
 
 ## Configurations for my neovim
