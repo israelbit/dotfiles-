@@ -1,6 +1,8 @@
 # My dotfiles for archlinux
 ## Packages requires
-- nevoim 
+- neovim 
+- bspwm & sxhkd
+
 
 ## Configurations for my neovim
 ### Plugins
