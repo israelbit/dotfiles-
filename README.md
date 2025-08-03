@@ -2,6 +2,9 @@
 ## Packages requires
 - neovim 
 - bspwm & sxhkd
+- mpd rmpc 
+- polybar 
+
 
 
 ## Configurations for my neovim
